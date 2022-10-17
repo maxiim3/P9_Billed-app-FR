@@ -104,3 +104,5 @@ dist
 # TernJS port file
 
 .DS_Store
+
+.idea/
